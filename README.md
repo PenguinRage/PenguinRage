@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm PenguinRage
 ---
 
-- 🔭 I’m currently working as at Fluent Commerce
+- 🔭 I’m currently working at Fluent Commerce as a Site Reliability Engineer.
 - 🌱 I’m currently learning machine learning with tensorflow
 - 📫 How to reach me: [on my website](https://penguinrage.github.io)
 
