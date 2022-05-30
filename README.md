@@ -18,4 +18,6 @@
 
 ![PenguinRage Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PenguinRage&theme=radical)
 ![PenguinRage Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PenguinRage&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=penguinrage&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=penguinrage&theme=radical&utcOffset=8)
 ![PenguinRage Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenguinRage&theme=radical)
