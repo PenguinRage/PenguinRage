@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm PenguinRage
 ---
 
-- 🔭 I’m currently working at Fluent Commerce as a Site Reliability Engineer.
-- 🌱 I’m currently learning machine learning with tensorflow
+- 🔭 I’m currently working on improving my skillset with neovim.
+- 🌱 I’m currently learning Go and Kubenetes
 - 📫 How to reach me: [on my website](https://penguinrage.github.io)
 
 ### 🏆 GitHub Profile Trophy:
