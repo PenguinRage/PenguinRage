@@ -5,13 +5,6 @@
 - 🌱 I’m currently learning Go and Kubenetes
 - 📫 How to reach me: [on my website](https://penguinrage.github.io)
 
-### 🏆 GitHub Profile Trophy:
----
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=PenguinRage&column=8&theme=radical"/>
-</a>
-
-
 ### 📊 GitHub Stats:
 ---
 ![PenguinRage github stats](https://github-readme-stats.vercel.app/api?username=PenguinRage&theme=radical&show_icons=true&count_private=true)
