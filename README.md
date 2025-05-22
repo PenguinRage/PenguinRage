@@ -2,7 +2,7 @@
 ---
 
 - 🔭 I’m currently working on improving my skillset with neovim.
-- 🌱 I’m currently learning Go and Kubenetes
+- 🌱 I’m currently working with Go and Kubenetes
 - 📫 How to reach me: [on my website](https://penguinrage.github.io)
 
 ### 📊 GitHub Stats:
